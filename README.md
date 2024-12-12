@@ -1,2 +1,2 @@
 # SmartyMate
-A desktop pets with useful tools
+This will be an interesting companion that will provide you with a variety of different tools.
